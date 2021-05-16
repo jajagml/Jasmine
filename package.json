@@ -1,0 +1,26 @@
+{
+  "name": "demotest",
+  "version": "1.0.0",
+  "description": "demo test for Jasmine",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "server-update": "webdriver-manager update",
+    "test": "protractor config/conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaja-mg/Jasmine.git"
+  },
+  "author": "jajagml",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaja-mg/Jasmine/issues"
+  },
+  "homepage": "https://github.com/jaja-mg/Jasmine#readme",
+  "dependencies": {
+    "protractor": "^7.0.0"
+  }
+}
