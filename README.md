@@ -1,2 +1,2 @@
-# Jasmine (Protractor)
+# Jasmine 
 Automation Testing using Jasmine Test Framework
