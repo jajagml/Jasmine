@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jaja-mg/Jasmine.git"
+    "url": "git+https://github.com/jajagml/Jasmine.git"
   },
   "author": "jajagml",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jaja-mg/Jasmine/issues"
+    "url": "https://github.com/jajagml/Jasmine/issues"
   },
-  "homepage": "https://github.com/jaja-mg/Jasmine#readme",
+  "homepage": "https://github.com/jajagml/Jasmine#readme",
   "dependencies": {
     "protractor": "^7.0.0"
   }
